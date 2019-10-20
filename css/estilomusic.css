@@ -1,0 +1,56 @@
+.horizontal{
+	
+	display: inline;
+}
+
+.navegador{
+	padding-top: 51px;
+	padding-bottom: 41px;
+	background-image: url(../img/emilia-music-top.jpg);
+	background-repeat: no-repeat;
+	background-size: 110%;
+	text-align: right;
+
+}
+
+.opciones{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: rgba(255,255,255,0.5);
+	margin-right: 10px;
+}
+
+a{
+
+	text-decoration: none;
+	color: #444;
+	font-size: 20px;
+}
+.imgnav {
+	width: 17px;
+}
+.padding {
+	margin-right: 10px;
+}
+.titulo {
+	font-family: "Raleway";
+	margin-right: 10px;
+	font-size: 40px;
+}
+h1 {
+	font-weight: bold;
+}
+h4 {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	font-family: "Open Sans";
+}
+.margen{
+	color: rgb(128,128,128);
+	margin-left: 30px;
+}
+h2 {
+	font-family: "Raleway";
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
