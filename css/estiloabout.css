@@ -1,3 +1,5 @@
+
+
 body  {
 	font-family: "Open sans";
 	width: 900px;
@@ -7,7 +9,7 @@ body  {
 	background-position: right top;
 	background-repeat: no-repeat;
 
-	
+
 	}
 .navegador{
 	text-align: right;
@@ -18,7 +20,7 @@ body  {
 	margin-bottom: 0px;
 }
 li{
-	
+
 	display: inline;
 }
 .imgnav {
@@ -47,3 +49,6 @@ a {
 
 }
 
+ #nohacenada{
+ 	background-color: white;
+ }
